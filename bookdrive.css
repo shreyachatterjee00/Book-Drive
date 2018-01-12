@@ -1,0 +1,54 @@
+body {
+    background-color: #C6D1E8;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #103075;
+    position: fixed;
+    top:0;
+    width: 100%
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-family: "Courier New", "Times New Roman";
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #000000;
+}
+
+
+h1 {
+    font-family: "Courier New", "Times New Roman";
+    padding-top: 50px;
+}
+
+h2 {
+font-family: "Courier New", "Times New Roman";
+}
+
+h3 {
+font-family: "Courier New", "Times New Roman";
+}
+
+h5 {
+font-family: "Courier New", "Times New Roman";
+}
+
+p {
+font-family: "Courier New", "Times New Roman";
+}
